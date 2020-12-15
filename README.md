@@ -1,0 +1,2 @@
+# Goodidea
+First Git Goodidea
